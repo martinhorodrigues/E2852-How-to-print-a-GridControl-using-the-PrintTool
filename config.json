@@ -1,0 +1,8 @@
+{
+	"autoGenerateVb": true,
+	"platform": "WinForms",
+	"product": "XtraPrinting Library",
+	"runOnWeb": false,
+	"technology": ".NET",
+	"unsupportedVersions": ""
+}
